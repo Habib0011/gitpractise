@@ -1,0 +1,41 @@
+.blog-1{
+    background-color: black;
+    color: white;
+    border: 15px solid yellow;
+    margin: 25px 25px;
+    padding: 40px 40px;
+    border-radius: 25px;
+    text-align: justify;
+}
+.blog-1 h1{
+    text-align: center;
+}
+.blog-2{
+    background-color:brown;
+    color: white;
+    border: 15px solid gray;
+    margin: 25px 25px;
+    padding: 40px 40px;
+    border-radius: 25px;
+    text-align: justify;
+}
+.blog-1 small{
+    background-color: tomato;
+    font-size: 25px;
+    padding: 5px;
+}
+.blog-2 small{
+    background-color: blueviolet;
+    font-size: 20px;
+    padding: 4px;
+}
+.blog-1 span{
+    color: grey;
+}
+h2{
+    border: 5px solid tomato;
+    background-color: brown;
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+}
